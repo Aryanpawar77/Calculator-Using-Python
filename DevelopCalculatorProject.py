@@ -1,10 +1,4 @@
-""" Note :- Make windows installer setup Inno setup
-31-07-2025
-Show a custom license page
 
-Add versioning or update support
-
-"""
 # Progressing Code
 import tkinter as tk
 from tkinter import ttk
@@ -280,6 +274,7 @@ class Calculator(tk.Tk):
 
 
 Run()
+
 
 
 
